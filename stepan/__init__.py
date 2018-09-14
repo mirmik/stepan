@@ -2,7 +2,7 @@
 
 import os
 
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 
 def say(what_stepan_sad):
 	print("Степан изрекает: " + what_stepan_sad)
