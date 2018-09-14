@@ -1,3 +1,3 @@
 rm -rf dist
 rm -rf build
-rm -rf evalcache.egg-info
+rm -rf *.egg-info
